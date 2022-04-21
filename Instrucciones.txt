@@ -1,0 +1,5 @@
+Descargar docker pull joaquinga/ejercicio-ss
+docker run -it --rm -p 8080:8080 joaquinga/ejercicio-ss
+
+Añadir en el link generado:
+/ws/todo.wsdl
